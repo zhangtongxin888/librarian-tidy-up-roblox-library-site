@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://librariantidyuprobloxlibrary.wiki
+Sitemap: https://librariantidyuprobloxlibrary.wiki/sitemap.xml
